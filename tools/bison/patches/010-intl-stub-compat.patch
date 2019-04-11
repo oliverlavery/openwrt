@@ -1,4 +1,4 @@
---- a/src/main.c
+/src/main.c
 +++ b/src/main.c
 @@ -60,9 +60,9 @@
  {
@@ -13,3 +13,4 @@
  
    {
      char const *cp = getenv ("LC_CTYPE");
+
